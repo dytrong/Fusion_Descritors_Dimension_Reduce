@@ -1,0 +1,24 @@
+delete ./data/h5_patch
+init spend time 4.915144443511963
+读取的图像:i_duda
+读取的图片张数:1
+start compute the 1 pairs matches
+融合后描述符维度:(360, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(361, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(364, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(370, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(376, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(397, 256)
+提取描述符平均耗时:8.679190357526144
+
+
+读取的图像:i_greenhouse
+读取的图片张数:2
+start compute the 1 pairs matches
+融合后描述符维度:(323, 256)
+start compute the 2 pairs matches

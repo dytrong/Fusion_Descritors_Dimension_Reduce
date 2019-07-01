@@ -1,0 +1,1007 @@
+delete ./data/h5_patch
+init spend time 4.758830785751343
+读取的图像:v_gardens
+读取的图片张数:1
+start compute the 1 pairs matches
+融合后描述符维度:(380, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(363, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(363, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(367, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(391, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(405, 256)
+提取描述符平均耗时:8.076170722643534
+
+
+读取的图像:v_machines
+读取的图片张数:2
+start compute the 1 pairs matches
+融合后描述符维度:(368, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(358, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(355, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(394, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(376, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(390, 256)
+提取描述符平均耗时:8.288685917854309
+
+
+读取的图像:v_bird
+读取的图片张数:3
+start compute the 1 pairs matches
+融合后描述符维度:(295, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(322, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(364, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(355, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(363, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(344, 256)
+提取描述符平均耗时:7.118514696756999
+
+
+读取的图像:v_busstop
+读取的图片张数:4
+start compute the 1 pairs matches
+融合后描述符维度:(367, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(365, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(369, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(372, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(367, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(370, 256)
+提取描述符平均耗时:8.838443279266357
+
+
+读取的图像:v_pomegranate
+读取的图片张数:5
+start compute the 1 pairs matches
+融合后描述符维度:(341, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(348, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(350, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(345, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(297, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(203, 256)
+提取描述符平均耗时:6.990272323290507
+
+
+读取的图像:v_feast
+读取的图片张数:6
+start compute the 1 pairs matches
+融合后描述符维度:(359, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(325, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(351, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(357, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(368, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(375, 256)
+提取描述符平均耗时:8.25385848681132
+
+
+读取的图像:v_churchill
+读取的图片张数:7
+start compute the 1 pairs matches
+融合后描述符维度:(387, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(394, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(400, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(404, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(411, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(417, 256)
+提取描述符平均耗时:8.687737345695496
+
+
+读取的图像:v_circus
+读取的图片张数:8
+start compute the 1 pairs matches
+融合后描述符维度:(342, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(336, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(335, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(352, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(348, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(339, 256)
+提取描述符平均耗时:7.388936599095662
+
+
+读取的图像:v_artisans
+读取的图片张数:9
+start compute the 1 pairs matches
+融合后描述符维度:(351, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(364, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(360, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(311, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(329, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(315, 256)
+提取描述符平均耗时:6.839249849319458
+
+
+读取的图像:v_sunseason
+读取的图片张数:10
+start compute the 1 pairs matches
+融合后描述符维度:(298, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(299, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(297, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(284, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(285, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(302, 256)
+提取描述符平均耗时:6.763158837954204
+
+
+读取的图像:v_laptop
+读取的图片张数:11
+start compute the 1 pairs matches
+融合后描述符维度:(406, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(405, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(404, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(387, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(385, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(412, 256)
+提取描述符平均耗时:7.578210711479187
+
+
+读取的图像:v_wounded
+读取的图片张数:12
+start compute the 1 pairs matches
+融合后描述符维度:(255, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(364, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(299, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(405, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(367, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(382, 256)
+提取描述符平均耗时:7.101428349812825
+
+
+读取的图像:v_wall
+读取的图片张数:13
+start compute the 1 pairs matches
+融合后描述符维度:(356, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(346, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(315, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(331, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(360, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(311, 256)
+提取描述符平均耗时:6.735333840052287
+
+
+读取的图像:v_soldiers
+读取的图片张数:14
+start compute the 1 pairs matches
+融合后描述符维度:(377, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(357, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(387, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(400, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(396, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(398, 256)
+提取描述符平均耗时:8.43032705783844
+
+
+读取的图像:v_calder
+读取的图片张数:15
+start compute the 1 pairs matches
+融合后描述符维度:(362, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(372, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(360, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(392, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(389, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(373, 256)
+提取描述符平均耗时:7.933355251948039
+
+
+读取的图像:v_graffiti
+读取的图片张数:16
+start compute the 1 pairs matches
+融合后描述符维度:(335, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(337, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(347, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(336, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(315, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(290, 256)
+提取描述符平均耗时:6.251837849617004
+
+
+读取的图像:v_colors
+读取的图片张数:17
+start compute the 1 pairs matches
+融合后描述符维度:(251, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(330, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(311, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(306, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(324, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(290, 256)
+提取描述符平均耗时:6.782918055852254
+
+
+读取的图像:v_cartooncity
+读取的图片张数:18
+start compute the 1 pairs matches
+融合后描述符维度:(283, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(299, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(314, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(305, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(320, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(320, 256)
+提取描述符平均耗时:6.255898912747701
+
+
+读取的图像:v_underground
+读取的图片张数:19
+start compute the 1 pairs matches
+融合后描述符维度:(173, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(164, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(256, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(295, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(325, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(353, 256)
+提取描述符平均耗时:6.146565596262614
+
+
+读取的图像:v_eastsouth
+读取的图片张数:20
+start compute the 1 pairs matches
+融合后描述符维度:(296, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(298, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(294, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(294, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(335, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(333, 256)
+提取描述符平均耗时:6.106687625249227
+
+
+读取的图像:v_blueprint
+读取的图片张数:21
+start compute the 1 pairs matches
+融合后描述符维度:(334, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(359, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(354, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(340, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(373, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(368, 256)
+提取描述符平均耗时:7.504737774531047
+
+
+读取的图像:v_dirtywall
+读取的图片张数:22
+start compute the 1 pairs matches
+融合后描述符维度:(349, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(324, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(325, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(352, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(337, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(344, 256)
+提取描述符平均耗时:8.078067461649576
+
+
+读取的图像:v_samples
+读取的图片张数:23
+start compute the 1 pairs matches
+融合后描述符维度:(373, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(393, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(397, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(388, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(389, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(394, 256)
+提取描述符平均耗时:11.40140171845754
+
+
+读取的图像:v_beyus
+读取的图片张数:24
+start compute the 1 pairs matches
+融合后描述符维度:(372, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(366, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(401, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(402, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(342, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(424, 256)
+提取描述符平均耗时:10.886348287264505
+
+
+读取的图像:v_man
+读取的图片张数:25
+start compute the 1 pairs matches
+融合后描述符维度:(342, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(350, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(391, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(361, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(347, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(360, 256)
+提取描述符平均耗时:10.210323731104532
+
+
+读取的图像:v_astronautis
+读取的图片张数:26
+start compute the 1 pairs matches
+融合后描述符维度:(289, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(346, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(390, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(330, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(357, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(422, 256)
+提取描述符平均耗时:10.975590666135153
+
+
+读取的图像:v_fest
+读取的图片张数:27
+start compute the 1 pairs matches
+融合后描述符维度:(321, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(310, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(310, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(344, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(339, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(309, 256)
+提取描述符平均耗时:9.0315154393514
+
+
+读取的图像:v_london
+读取的图片张数:28
+start compute the 1 pairs matches
+融合后描述符维度:(323, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(323, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(326, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(366, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(352, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(344, 256)
+提取描述符平均耗时:10.12303332487742
+
+
+读取的图像:v_tabletop
+读取的图片张数:29
+start compute the 1 pairs matches
+融合后描述符维度:(311, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(332, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(340, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(344, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(346, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(343, 256)
+提取描述符平均耗时:9.401957511901855
+
+
+读取的图像:v_bark
+读取的图片张数:30
+start compute the 1 pairs matches
+融合后描述符维度:(336, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(360, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(356, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(333, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(316, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(343, 256)
+提取描述符平均耗时:8.669235905011496
+
+
+读取的图像:v_strand
+读取的图片张数:31
+start compute the 1 pairs matches
+融合后描述符维度:(343, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(344, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(355, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(367, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(385, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(359, 256)
+提取描述符平均耗时:10.023171146710714
+
+
+读取的图像:v_bricks
+读取的图片张数:32
+start compute the 1 pairs matches
+融合后描述符维度:(333, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(342, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(318, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(333, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(326, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(325, 256)
+提取描述符平均耗时:8.95188573996226
+
+
+读取的图像:v_talent
+读取的图片张数:33
+start compute the 1 pairs matches
+融合后描述符维度:(318, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(317, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(326, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(341, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(360, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(310, 256)
+提取描述符平均耗时:9.445820927619934
+
+
+读取的图像:v_woman
+读取的图片张数:34
+start compute the 1 pairs matches
+融合后描述符维度:(272, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(332, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(279, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(333, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(292, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(348, 256)
+提取描述符平均耗时:8.430662552515665
+
+
+读取的图像:v_birdwoman
+读取的图片张数:35
+start compute the 1 pairs matches
+融合后描述符维度:(349, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(353, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(358, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(372, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(361, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(353, 256)
+提取描述符平均耗时:9.611023227373758
+
+
+读取的图像:v_tempera
+读取的图片张数:36
+start compute the 1 pairs matches
+融合后描述符维度:(356, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(386, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(372, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(404, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(388, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(392, 256)
+提取描述符平均耗时:10.44828200340271
+
+
+读取的图像:v_courses
+读取的图片张数:37
+start compute the 1 pairs matches
+融合后描述符维度:(334, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(337, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(345, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(330, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(313, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(323, 256)
+提取描述符平均耗时:9.062374512354532
+
+
+读取的图像:v_war
+读取的图片张数:38
+start compute the 1 pairs matches
+融合后描述符维度:(308, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(332, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(338, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(308, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(334, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(308, 256)
+提取描述符平均耗时:8.693106730779013
+
+
+读取的图像:v_wapping
+读取的图片张数:39
+start compute the 1 pairs matches
+融合后描述符维度:(256, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(315, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(197, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(255, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(269, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(305, 256)
+提取描述符平均耗时:7.681573987007141
+
+
+读取的图像:v_dogman
+读取的图片张数:40
+start compute the 1 pairs matches
+融合后描述符维度:(402, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(377, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(381, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(370, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(352, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(362, 256)
+提取描述符平均耗时:9.539962887763977
+
+
+读取的图像:v_yard
+读取的图片张数:41
+start compute the 1 pairs matches
+融合后描述符维度:(297, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(285, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(365, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(207, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(268, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(370, 256)
+提取描述符平均耗时:8.357432842254639
+
+
+读取的图像:v_boat
+读取的图片张数:42
+start compute the 1 pairs matches
+融合后描述符维度:(368, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(356, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(365, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(360, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(369, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(371, 256)
+提取描述符平均耗时:9.677596807479858
+
+
+读取的图像:v_home
+读取的图片张数:43
+start compute the 1 pairs matches
+融合后描述符维度:(324, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(336, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(362, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(350, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(325, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(329, 256)
+提取描述符平均耗时:9.20343816280365
+
+
+读取的图像:v_charing
+读取的图片张数:44
+start compute the 1 pairs matches
+融合后描述符维度:(257, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(275, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(259, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(243, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(372, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(386, 256)
+提取描述符平均耗时:8.441562334696451
+
+
+读取的图像:v_vitro
+读取的图片张数:45
+start compute the 1 pairs matches
+融合后描述符维度:(283, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(330, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(330, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(341, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(311, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(314, 256)
+提取描述符平均耗时:8.66746207078298
+
+
+读取的图像:v_coffeehouse
+读取的图片张数:46
+start compute the 1 pairs matches
+融合后描述符维度:(326, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(318, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(313, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(322, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(326, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(314, 256)
+提取描述符平均耗时:9.120286107063293
+
+
+读取的图像:v_bip
+读取的图片张数:47
+start compute the 1 pairs matches
+融合后描述符维度:(281, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(312, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(310, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(306, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(355, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(336, 256)
+提取描述符平均耗时:7.98539940516154
+
+
+读取的图像:v_adam
+读取的图片张数:48
+start compute the 1 pairs matches
+融合后描述符维度:(273, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(344, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(279, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(230, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(267, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(242, 256)
+提取描述符平均耗时:6.543943007787068
+
+
+读取的图像:v_grace
+读取的图片张数:49
+start compute the 1 pairs matches
+融合后描述符维度:(334, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(337, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(339, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(324, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(332, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(314, 256)
+提取描述符平均耗时:9.714106957117716
+
+
+读取的图像:v_abstract
+读取的图片张数:50
+start compute the 1 pairs matches
+融合后描述符维度:(329, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(302, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(351, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(358, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(335, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(338, 256)
+提取描述符平均耗时:9.365559577941895
+
+
+读取的图像:v_weapons
+读取的图片张数:51
+start compute the 1 pairs matches
+融合后描述符维度:(246, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(334, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(324, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(372, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(265, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(256, 256)
+提取描述符平均耗时:8.361327409744263
+
+
+读取的图像:v_posters
+读取的图片张数:52
+start compute the 1 pairs matches
+融合后描述符维度:(302, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(330, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(325, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(318, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(311, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(341, 256)
+提取描述符平均耗时:9.018545111020407
+
+
+读取的图像:v_there
+读取的图片张数:53
+start compute the 1 pairs matches
+融合后描述符维度:(392, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(382, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(332, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(328, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(350, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(350, 256)
+提取描述符平均耗时:10.146172006924948
+
+
+读取的图像:v_wormhole
+读取的图片张数:54
+start compute the 1 pairs matches
+融合后描述符维度:(299, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(325, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(286, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(309, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(355, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(378, 256)
+提取描述符平均耗时:8.447213490804037
+
+
+读取的图像:v_apprentices
+读取的图片张数:55
+start compute the 1 pairs matches
+融合后描述符维度:(339, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(335, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(334, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(366, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(331, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(344, 256)
+提取描述符平均耗时:9.721162716547648
+
+
+读取的图像:v_azzola
+读取的图片张数:56
+start compute the 1 pairs matches
+融合后描述符维度:(324, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(330, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(340, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(330, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(346, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(354, 256)
+提取描述符平均耗时:9.234180490175882
+
+
+读取的图像:v_maskedman
+读取的图片张数:57
+start compute the 1 pairs matches
+融合后描述符维度:(234, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(361, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(328, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(306, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(275, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(356, 256)
+提取描述符平均耗时:7.866200566291809
+
+
+读取的图像:v_bees
+读取的图片张数:58
+start compute the 1 pairs matches
+融合后描述符维度:(377, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(387, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(383, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(365, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(405, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(332, 256)
+提取描述符平均耗时:10.261909166971842
+
+
+读取的图像:v_yuri
+读取的图片张数:59
+start compute the 1 pairs matches
+融合后描述符维度:(394, 256)
+start compute the 2 pairs matches
+融合后描述符维度:(374, 256)
+start compute the 3 pairs matches
+融合后描述符维度:(390, 256)
+start compute the 4 pairs matches
+融合后描述符维度:(414, 256)
+start compute the 5 pairs matches
+融合后描述符维度:(355, 256)
+start compute the 6 pairs matches
+融合后描述符维度:(348, 256)
+提取描述符平均耗时:10.773769497871399
+
+
+总共耗时:3039.8055803775787
+(119812, 256)
